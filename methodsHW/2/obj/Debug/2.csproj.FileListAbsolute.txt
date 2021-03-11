@@ -1,0 +1,7 @@
+D:\clessons\methodsHW\2\bin\Debug\2.exe.config
+D:\clessons\methodsHW\2\bin\Debug\2.exe
+D:\clessons\methodsHW\2\bin\Debug\2.pdb
+D:\clessons\methodsHW\2\obj\Debug\2.csprojAssemblyReference.cache
+D:\clessons\methodsHW\2\obj\Debug\2.csproj.CoreCompileInputs.cache
+D:\clessons\methodsHW\2\obj\Debug\2.exe
+D:\clessons\methodsHW\2\obj\Debug\2.pdb

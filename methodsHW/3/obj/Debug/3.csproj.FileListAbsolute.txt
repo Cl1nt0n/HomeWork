@@ -1,0 +1,7 @@
+D:\clessons\methodsHW\3\bin\Debug\3.exe.config
+D:\clessons\methodsHW\3\bin\Debug\3.exe
+D:\clessons\methodsHW\3\bin\Debug\3.pdb
+D:\clessons\methodsHW\3\obj\Debug\3.csprojAssemblyReference.cache
+D:\clessons\methodsHW\3\obj\Debug\3.csproj.CoreCompileInputs.cache
+D:\clessons\methodsHW\3\obj\Debug\3.exe
+D:\clessons\methodsHW\3\obj\Debug\3.pdb
