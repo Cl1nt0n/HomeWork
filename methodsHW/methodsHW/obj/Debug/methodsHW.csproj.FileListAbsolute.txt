@@ -1,7 +1,0 @@
-D:\clessons\methodsHW\methodsHW\bin\Debug\methodsHW.exe.config
-D:\clessons\methodsHW\methodsHW\bin\Debug\methodsHW.exe
-D:\clessons\methodsHW\methodsHW\bin\Debug\methodsHW.pdb
-D:\clessons\methodsHW\methodsHW\obj\Debug\methodsHW.csprojAssemblyReference.cache
-D:\clessons\methodsHW\methodsHW\obj\Debug\methodsHW.csproj.CoreCompileInputs.cache
-D:\clessons\methodsHW\methodsHW\obj\Debug\methodsHW.exe
-D:\clessons\methodsHW\methodsHW\obj\Debug\methodsHW.pdb
