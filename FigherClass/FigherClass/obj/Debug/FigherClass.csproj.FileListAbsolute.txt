@@ -1,0 +1,7 @@
+D:\clessons\FigherClass\FigherClass\bin\Debug\FigherClass.exe.config
+D:\clessons\FigherClass\FigherClass\bin\Debug\FigherClass.exe
+D:\clessons\FigherClass\FigherClass\bin\Debug\FigherClass.pdb
+D:\clessons\FigherClass\FigherClass\obj\Debug\FigherClass.csprojAssemblyReference.cache
+D:\clessons\FigherClass\FigherClass\obj\Debug\FigherClass.csproj.CoreCompileInputs.cache
+D:\clessons\FigherClass\FigherClass\obj\Debug\FigherClass.exe
+D:\clessons\FigherClass\FigherClass\obj\Debug\FigherClass.pdb
